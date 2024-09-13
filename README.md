@@ -12,4 +12,6 @@ This repository contains basic information of Prof. Dongdong Tian's SeismoLab.
 
 ### Master Students
 
+- Jun Yan **2024.09.01**
+
 ### Undergraduate Students
