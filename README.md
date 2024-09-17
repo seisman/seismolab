@@ -13,6 +13,8 @@ The README file is in English, but most other materials are in Chinese.
 
 ### PhD Students
 
+- Xuan Liu 2022/09
+
 ### Master Students
 
 - Jun Yan **2024/09**
