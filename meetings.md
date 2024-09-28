@@ -11,6 +11,25 @@
   Science Advances, 10(19), eado1469.
   https://doi.org/10.1126/sciadv.ado1469
 
+### 2024-09-27 / Zhao Haoliang / Nuclear Explosions' Discrimination
+
+- Barama, L., Williams, J., Newman, A. V., & Peng, Z. (2023).
+  Global Nuclear Explosion Discrimination Using a Convolutional Neural Network.
+  Geophysical Research Letters, 50(17), e2022GL101528. 
+  https://doi.org/10.1029/2022GL101528
+- He, X., Zhao, L., Xie, X., & Yao, Z. (2018). 
+  High‐Precision Relocation and Event Discrimination for the 3 September 2017 Underground Nuclear Explosion and Subsequent Seismic Events at the North Korean Test Site. 
+  Seismological Research Letters. 
+  https://doi.org/10.1785/0220180164
+- Richards, P. G., & Kim, W.-Y. (2007). 
+  Seismic signature. 
+  Nature Physics, 3(1), 4–6. 
+  https://doi.org/10.1038/nphys495
+- Zhao, L., Xie, X., Wang, W., Fan, N., Zhao, X., & Yao, Z. (2017). 
+  The 9 September 2016 North Korean Underground Nuclear Test. 
+  Bulletin of the Seismological Society of America, 107(6), 3044–3051. 
+  https://doi.org/10.1785/0120160355
+
 ## Past
 
 <details>
