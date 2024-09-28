@@ -4,6 +4,13 @@
 
 ## Current
 
+#### 2024-09-19 / LIU Xuan / 2024 Note earthquake
+
+- Wang, Q.-Y., Cui, X., Frank, W. B., Lu, Y., Hirose, T., & Obara, K. (2024).
+  Untangling the environmental and tectonic drivers of the Noto earthquake swarm in Japan.
+  Science Advances, 10(19), eado1469.
+  https://doi.org/10.1126/sciadv.ado1469
+
 ## Past
 
 <details>
