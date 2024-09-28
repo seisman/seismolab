@@ -17,8 +17,8 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Master Students
 
+- Haoliang Zhao **2023/09**
 - Jun Yan **2024/09**
-
 ### Undergraduate Students
 
 ## Group Meetings
