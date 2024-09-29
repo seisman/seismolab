@@ -21,7 +21,7 @@ The README file is in English, but most other materials are in Chinese.
 - Jun Yan **2024/09**
 ### Undergraduate Students
 
-- xinyu zhou **2024/09**
+- Xinyu Zhou **2024/09**
 
 ## Group Meetings
 
