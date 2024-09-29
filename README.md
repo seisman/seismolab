@@ -14,13 +14,14 @@ The README file is in English, but most other materials are in Chinese.
 ### PhD Students
 
 - Xuan Liu **2022/09**
-- xinyu zhou **2025/09**
 
 ### Master Students
 
 - Haoliang Zhao **2023/09**
 - Jun Yan **2024/09**
 ### Undergraduate Students
+
+- xinyu zhou **2024/09**
 
 ## Group Meetings
 
