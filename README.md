@@ -23,6 +23,8 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Undergraduate Students
 
+- Xinyu Zhou **2024/09**
+
 ## Group Meetings
 
 [meetings.md](meetings.md)
