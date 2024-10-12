@@ -11,6 +11,18 @@
   Science Advances, 10(19), eado1469.
   https://doi.org/10.1126/sciadv.ado1469
 
+### 2024-10-10 / Liu Xiaoyu / Anisotropy of the Earth's core
+- Garcia, R., & Souriau, A. (2000). Inner core anisotropy and heterogeneity level. 
+  Geophysical Research Letters, 27(19), 3121–3124. 
+  https://doi.org/10.1029/2000GL008520
+- Creager, K. C. (1999). Large‐scale variations in inner core anisotropy. 
+  Journal of Geophysical Research: Solid Earth, 104(B10), 23127–23139. 
+  https://doi.org/10.1029/1999JB900162
+- Niu, F., & Wen, L. (2002). Seismic anisotropy in the top 400 km of the inner core 
+  beneath the “eastern” hemisphere.
+  Geophysical Research Letters, 29(12). 
+  https://doi.org/10.1029/2001GL014118
+
 ## Past
 
 <details>
