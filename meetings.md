@@ -51,7 +51,16 @@
   Bulletin of the Seismological Society of America, 96(4A), 1213–1229.
   https://doi.org/10.1785/0120050259
 
-
+### 2024-10-31 / Zhou xinyu / Utilizing Precursors to Understand Deep Reflectors
+- Benz, H. M., & Vidale, J. E. (1993). Sharpness of upper-mantle discontinuities determined from high-frequency reflections. 
+  Nature, 365(6442), 147–150.
+  https://doi.org/10.1038/365147a0
+- LeStunff, Y., Wicks, C. W., & Romanowicz, B. (1995). P′P′ Precursors Under Africa: Evidence for Mid-Mantle Reflectors. 
+  Science, 270(5233), 74–77.
+  https://doi.org/10.1126/science.270.5233.74
+- Xu, F., Vidale, J. E., Earle, P. S., & Benz, H. M. (1998). Mantle discontinuities under southern Africa from precursors to  P′ P′ df .
+  Geophysical Research Letters, 25(4), 571–574.
+  https://doi.org/10.1029/98GL00122
 
 ## Past
 
