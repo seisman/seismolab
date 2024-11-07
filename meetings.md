@@ -4,12 +4,13 @@
 
 ## Current
 
-#### 2024-09-19 / LIU Xuan / 2024 Note earthquake
+### 2024-09-19 / LIU Xuan / 2024 Note earthquake
 
 - Wang, Q.-Y., Cui, X., Frank, W. B., Lu, Y., Hirose, T., & Obara, K. (2024).
   Untangling the environmental and tectonic drivers of the Noto earthquake swarm in Japan.
   Science Advances, 10(19), eado1469.
   https://doi.org/10.1126/sciadv.ado1469
+
 
 ### 2024-09-27 / Zhao Haoliang / Nuclear Explosions' Discrimination
 
@@ -30,6 +31,46 @@
   Bulletin of the Seismological Society of America, 107(6), 3044–3051. 
   https://doi.org/10.1785/0120160355
 
+### 2024-10-10 / Liu Xiaoyu / Anisotropy of the Earth's core
+- Garcia, R., & Souriau, A. (2000). Inner core anisotropy and heterogeneity level. 
+  Geophysical Research Letters, 27(19), 3121–3124. 
+  https://doi.org/10.1029/2000GL008520
+- Creager, K. C. (1999). Large‐scale variations in inner core anisotropy. 
+  Journal of Geophysical Research: Solid Earth, 104(B10), 23127–23139. 
+  https://doi.org/10.1029/1999JB900162
+- Niu, F., & Wen, L. (2002). Seismic anisotropy in the top 400 km of the inner core 
+  beneath the “eastern” hemisphere.
+  Geophysical Research Letters, 29(12). 
+  https://doi.org/10.1029/2001GL014118
+
+### 2024-10-24 / Yan jun / Improved Focal-Depth Determination
+- Craig, T. J. (2019). Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data.
+  Journal of Geophysical Research: Solid Earth, 124(2), 1759–1780.
+  https://doi.org/10.1029/2018JB016902
+- Murphy, J. R. (2006). Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP.
+  Bulletin of the Seismological Society of America, 96(4A), 1213–1229.
+  https://doi.org/10.1785/0120050259
+
+### 2024-10-31 / Zhou Xinyu / Utilizing Precursors to Understand Deep Reflectors
+
+- Benz, H. M., & Vidale, J. E. (1993). 
+  Sharpness of upper-mantle discontinuities determined from high-frequency reflections. 
+  Nature, 365(6442), 147–150.
+  https://doi.org/10.1038/365147a0
+- LeStunff, Y., Wicks, C. W., & Romanowicz, B. (1995). 
+  P'P' Precursors Under Africa: Evidence for Mid-Mantle Reflectors. 
+  Science, 270(5233), 74–77.
+  https://doi.org/10.1126/science.270.5233.74
+- Xu, F., Vidale, J. E., Earle, P. S., & Benz, H. M. (1998). 
+  Mantle discontinuities under southern Africa from precursors to  P'P'df .
+  Geophysical Research Letters, 25(4), 571–574.
+  https://doi.org/10.1029/98GL00122
+
+### 2024-11-7 / Liu Xuan / 2024 Noto Earthquake Rupture Process
+
+- Xu, L., Ji, C., Meng, L., Ampuero, J.-P., Yunjun, Z., Mohanna, S., & Aoki, Y. (2024). Dual-initiation ruptures in the 2024 Noto earthquake encircling a fault asperity at a swarm edge. Science, 385(6711), 871–876. https://doi.org/10.1126/science.adp0493
+
+- Tohoku University, Toda, S., Stein, R., & Temblor, Inc. (2024). Intense seismic swarm punctuated by a magnitude 7.5 Japan shock. Temblor. https://doi.org/10.32858/temblor.333
 ## Past
 
 <details>
