@@ -69,9 +69,15 @@
 
 ### 2024-11-7 / Liu Xuan / 2024 Noto Earthquake Rupture Process
 
-- Xu, L., Ji, C., Meng, L., Ampuero, J.-P., Yunjun, Z., Mohanna, S., & Aoki, Y. (2024). Dual-initiation ruptures in the 2024 Noto earthquake encircling a fault asperity at a swarm edge. Science, 385(6711), 871–876. https://doi.org/10.1126/science.adp0493
+- Xu, L., Ji, C., Meng, L., Ampuero, J.-P., Yunjun, Z., Mohanna, S., & Aoki, Y. (2024). 
+  Dual-initiation ruptures in the 2024 Noto earthquake encircling a fault asperity at a swarm edge. 
+  Science, 385(6711), 871–876. 
+  https://doi.org/10.1126/science.adp0493
 
-- Tohoku University, Toda, S., Stein, R., & Temblor, Inc. (2024). Intense seismic swarm punctuated by a magnitude 7.5 Japan shock. Temblor. https://doi.org/10.32858/temblor.333
+- Tohoku University, Toda, S., Stein, R., & Temblor, Inc. (2024). 
+  Intense seismic swarm punctuated by a magnitude 7.5 Japan shock. 
+  Temblor. 
+  https://doi.org/10.32858/temblor.333
 
 
 ## Past
