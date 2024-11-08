@@ -19,7 +19,11 @@ The README file is in English, but most other materials are in Chinese.
 
 - Haoliang Zhao **2023/09**
 - Jun Yan **2024/09**
+- Xiaoyu Liu **2023/09**
+
 ### Undergraduate Students
+
+- Xinyu Zhou **2024/09**
 
 ## Group Meetings
 
