@@ -79,6 +79,22 @@
   Temblor. 
   https://doi.org/10.32858/temblor.333
 
+### 2024-11-14 / Zhao Haoliang / Source Physics Experiment
+
+- Pitarka, A., Mellors, R. J., Walter, W. R., Ezzedine, S., Vorobiev, O., Antoun, T., et al. (2015). 
+  Analysis of Ground Motion from An Underground Chemical Explosion. 
+  Bulletin of the Seismological Society of America, 105(5), 2390–2410. 
+  https://doi.org/10.1785/0120150066
+
+- Steedman, D. W., Bradley, C. R., Rougier, E., & Coblentz, D. D. (2016). 
+  Phenomenology and Modeling of Explosion‐Generated Shear Energy for the Source Physics Experiments. 
+  Bulletin of the Seismological Society of America, 106(1), 42–53. 
+  https://doi.org/10.1785/0120150011
+
+- Hirakawa, E., Pitarka, A., & Mellors, R. (2016). 
+  Generation of Shear Motion from an Isotropic Explosion Source by Scattering in Heterogeneous Media. 
+  Bulletin of the Seismological Society of America, 106(5), 2313–2319. 
+  https://doi.org/10.1785/0120150243
 
 ## Past
 
