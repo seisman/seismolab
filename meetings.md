@@ -44,10 +44,12 @@
   https://doi.org/10.1029/2001GL014118
 
 ### 2024-10-24 / Yan jun / Improved Focal-Depth Determination
-- Craig, T. J. (2019). Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data.
+- Craig, T. J. (2019).
+  Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data.
   Journal of Geophysical Research: Solid Earth, 124(2), 1759–1780.
   https://doi.org/10.1029/2018JB016902
-- Murphy, J. R. (2006). Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP.
+- Murphy, J. R. (2006).
+  Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP.
   Bulletin of the Seismological Society of America, 96(4A), 1213–1229.
   https://doi.org/10.1785/0120050259
 
@@ -95,6 +97,12 @@
   Generation of Shear Motion from an Isotropic Explosion Source by Scattering in Heterogeneous Media. 
   Bulletin of the Seismological Society of America, 106(5), 2313–2319. 
   https://doi.org/10.1785/0120150243
+
+### 2024-11-28 / Yan Jun / Accurate Focal-depth Determination
+- Blackwell, A., Craig, T., & Rost, S. (2024).
+  Automatic relocation of intermediate-depth earthquakes using adaptive teleseismic arrays.
+  Geophysical Journal International, 239(2), 821–840.
+  https://doi.org/10.1093/gji/ggae289
 
 ## Past
 
