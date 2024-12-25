@@ -115,6 +115,17 @@
   Bulletin of the Seismological Society of America, 101(6), 2843–2854. 
   https://doi.org/10.1785/0120110157
 
+### 2024-12-19 / LIU Xuan / Clustering Methods
+- Ikotun, A. M., Ezugwu, A. E., Abualigah, L., Abuhaija, B., & Heming, J. (2023).
+  K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data.
+  Information Sciences, 622, 178–210. 
+  https://doi.org/10.1016/j.ins.2022.11.139
+- Ester, M., Kriegel, H., Sander, J., & Xu, X. (1996). 
+  A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise. 
+  Knowledge Discovery and Data Mining.
+  https://api.semanticscholar.org/CorpusID:355163
+
+
 
 ## Past
 
